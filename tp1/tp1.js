@@ -1,3 +1,7 @@
+//Eliana Graventa 
+//https://youtu.be/2qIKIEaNCVE?si=KMz3lz9VfMpqhvEA
+
+
 let cuadradoGrande = 50;
 let cuadradoChico = 25;
 let cambioColor = false;  // Variable para controlar el color
