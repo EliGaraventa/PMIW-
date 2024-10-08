@@ -18,7 +18,7 @@ let fin = false;
 
 function preload() {
   for (let i = 0; i < dialogos.length; i++) {
-    imagenes[0] = loadImage('imagenes/imagen1.jpg'); // Cambia la ruta según tus imágenes
+    imagenes[0] = loadImage('imagenes/imagen1.jpg');
   }
 }
 
@@ -33,7 +33,7 @@ function draw() {
   background(220);
 
   if (!fin && pantallaActual < imagenes.length) {
-    image(imagenes[pantallaActual], 0, 0, width, height); // Ajusta la imagen al tamaño del canvas
+    image(imagenes[pantallaActual], 0, 0, width, height);
   }
   fill(255);
   textSize(24);
