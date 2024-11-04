@@ -203,16 +203,6 @@ function draw() {
   }
 }
 
-function botonSiguiente() {
-  if (siguiente) {
-    fill(0, 0, 255);
-    rect(width - 75, height - 75, 50, 50);
-    fill(0);
-    triangle(width - 65, height - 65, width - 65, height - 35, width - 35, height - 50);
-    fill(255);
-  }
-}
-
 function mousePressed() {
 
   if (!musicaIniciada) {
