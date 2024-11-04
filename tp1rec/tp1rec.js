@@ -1,3 +1,5 @@
+// Eliana Garaventa - Tobias Cisneros
+
 let decision = false;
 let muerte = false;
 let siguiente = false;
