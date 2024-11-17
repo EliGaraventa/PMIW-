@@ -1,3 +1,5 @@
+// Eliana Garaventa y Tobias Cisneros
+// https://youtu.be/mnZkz0rRAdA
 let ramaPos = 0;
 let dialogos;
 let imagen = [];
