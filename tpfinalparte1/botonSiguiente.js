@@ -1,7 +1,7 @@
 function botonSiguiente() {
-  if (esPantallaMuerte(ramaPos)) { // Llama a pantallaMuerte si es una pantalla de muerte
+  if (esPantallaMuerte(ramaPos)) { 
     pantallaMuerte();
-  } else if (esPantallaDecision(ramaPos)) { // Llama a pantallaDecision si es una pantalla de decisión
+  } else if (esPantallaDecision(ramaPos)) { 
     pantallaDecision();
   }
 
